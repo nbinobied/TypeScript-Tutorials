@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "sourceMap": true
+    },
+    "files":[
+        "section_2/005_typescript_config.ts",
+        "section_2/006_variables.ts",
+        "section_2/006_string_interpolations.ts",
+        "section_2/007_types.ts",
+        "section_2/008_type_alias.ts",
+        "section_2/009_union_types.ts",
+        "section_2/010_arithmetic_operations.ts",
+        "section_2/011_conditionals.ts",
+        "section_2/012_conditional_operators.ts",
+        "section_2/013_compund_conditional.ts"
+    ]
+}
